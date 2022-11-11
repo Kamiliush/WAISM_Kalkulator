@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/InterfaceCreator/classes_gen/
+/languages/InterfaceCreator/generator/classes_gen/
+/languages/InterfaceCreator/sandbox/classes_gen/
